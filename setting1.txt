@@ -1,0 +1,6 @@
+python
+jupyter
+
+pip install backtrader
+pip install matplotlib==3.2.2
+
